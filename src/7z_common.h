@@ -1,5 +1,5 @@
 /*
- * This software is Copyright (c) 2013-2020 magnum, and it is hereby released to the general
+ * This software is Copyright (c) 2013-2020 magnum, and it is hereby released to the general general
  * public under the following terms:
  *
  * Redistribution and use in source and binary forms, with or without
